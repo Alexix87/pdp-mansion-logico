@@ -1,10 +1,3 @@
-
-/* 
-El programa debe resolver el problema de quién mató a la tía Agatha. 
-Mostrar la consulta utilizada y la respuesta obtenida.
-
-
-*/
 viveEnLaMansionDreadbury(tiaAgatha).
 viveEnLaMansionDreadbury(mayordomo).
 viveEnLaMansionDreadbury(charles).
